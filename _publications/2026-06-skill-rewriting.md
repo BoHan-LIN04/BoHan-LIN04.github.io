@@ -1,6 +1,7 @@
 ---
 title: "What Should a Skill Remember? Quality--Cost Trade-offs in Cost-Aware Skill Rewriting for Language Model Agents"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-skill-rewriting
 excerpt: 'We study skill rewriting through an economic lens, proposing a framework that profiles skill structure and evaluates rewriting strategies. Results show a learned policy reduces total cost by 7.0% while preserving verifier quality.'
 date: 2026-06-08

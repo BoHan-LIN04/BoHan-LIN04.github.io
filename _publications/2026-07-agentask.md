@@ -1,6 +1,7 @@
 ---
 title: "AgentAsk: Multi-Agent Systems Need to Ask"
 collection: publications
+category: conferences
 permalink: /publication/2026-agentask
 excerpt: 'We propose AgentAsk, a lightweight clarification module that intervenes at the edge level in multi-agent systems to prevent cascading errors, improving accuracy by up to 4.69% with minimal overhead.'
 date: 2026-07-01

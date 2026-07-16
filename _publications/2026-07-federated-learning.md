@@ -1,6 +1,7 @@
 ---
 title: "Mitigating Generator Bias in Low-Participation Model-Heterogeneous Federated Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-federated-learning
 excerpt: 'Accepted for publication in IEEE Transactions on Artificial Intelligence. Addresses generator bias in federated learning settings with low client participation and model heterogeneity.'
 date: 2026-07-03
